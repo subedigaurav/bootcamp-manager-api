@@ -1,13 +1,9 @@
 <div align="center">
   <img src="./logo.png" width="350px">
   <br>
-  <br>
 </div>
 
-<div align="center">
-  <h1>BootCamper API</h1>
-</div>
-
+<hr>
 <div align="center">
 <h3>Extensive REST API for BootCamper application; a bootcamp directory website.</h3>
 </div>
@@ -38,7 +34,15 @@ npm start
 
 ## Documentation
 
+<<<<<<< HEAD
+
 ### You can find the api documentation [here](https://bootcamper-api.herokuapp.com/). Currently, the api is rate limited at : 200 requests per 10 minutes.
+
+=======
+
+#### You can find the api documentation [here](https://bootcamper-api.herokuapp.com/). Currently, the api is rate limited at : 200 requests per 10 minutes.
+
+> > > > > > > befbb9f... beautify readme
 
 <br>
 
