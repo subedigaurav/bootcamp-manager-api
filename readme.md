@@ -13,17 +13,12 @@
 </div>
 
 <br>
-<br>
 
 ## Usage
-
-<br>
 
 ### **Update Environment Variables**
 
 #### Fill in environment variables in 'config/cnfg.env' according to your own.
-
-<br>
 
 ### **Install Dependencies**
 
@@ -41,12 +36,11 @@ npm install
 npm start
 ```
 
-<br>
-
 ## Documentation
 
 ### You can find the api documentation [here](https://bootcamper-api.herokuapp.com/). Currently, the api is rate limited at : 200 requests per 10 minutes.
 
 <br>
 
-- ### Version: 1.0
+- Version: 1.0
+- License: MIT
