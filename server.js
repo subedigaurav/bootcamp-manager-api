@@ -14,7 +14,7 @@ const fileupload = require('express-fileupload')
 const chalk = require('chalk')
 
 //% load the environment variables
-require('dotenv').config({ path: './config/config.env' })
+require('dotenv').config({ path: './config/cnfg.env' })
 
 //^ connect to database
 connectDB()
