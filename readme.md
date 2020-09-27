@@ -26,7 +26,7 @@ npm install
 
 ```
 # Run in development mode
-npm install
+npm run dev
 
 # Run in production mode
 npm start
