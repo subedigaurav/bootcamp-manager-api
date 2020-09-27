@@ -34,15 +34,7 @@ npm start
 
 ## Documentation
 
-<<<<<<< HEAD
-
-### You can find the api documentation [here](https://bootcamper-api.herokuapp.com/). Currently, the api is rate limited at : 200 requests per 10 minutes.
-
-=======
-
 #### You can find the api documentation [here](https://bootcamper-api.herokuapp.com/). Currently, the api is rate limited at : 200 requests per 10 minutes.
-
-> > > > > > > befbb9f... beautify readme
 
 <br>
 
