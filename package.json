@@ -27,7 +27,7 @@
 		"jsonwebtoken": "^8.5.1",
 		"mongoose": "^5.10.6",
 		"morgan": "^1.10.0",
-		"node-geocoder": "^3.27.0",
+		"node-geocoder": "^4.4.1",
 		"nodemailer": "^6.4.11",
 		"slugify": "^1.4.5",
 		"xss-clean": "^0.1.1"
